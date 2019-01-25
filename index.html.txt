@@ -109,7 +109,7 @@
               <div class="carousel-content">
                 <h2>STUDENT ANALYSIS</h2>
                 <p>"WE CAN EASILY BECOME AS MUCH SLAVES TO PRECAUTION AS WE CAN TO FEAR."</p>
-                <a href="practical orientation.php" class="btn-get-started scrollto">Get Started</a>
+                <a href="analysis.php" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -188,7 +188,7 @@
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>We are team of six members working for reducing the rate of student dropout in graduate colleges. We are planning to encourage the students to understand and pursue their passion and guide them to achieve their goals.Our website acts as a bridge between the teachers and the students.Our website requires active participation of the teachers and other authorities of the student related academically or otherwise. It will act as a platform that  would help to develop masters in particular than producing jacks in bulks. </p>
+          <p>We are team of six members working for reducing the rate of student dropout in graduate colleges.The site includes an in-depth look at the academic and psychometric performance of the students throughout their particular course. We are also planning to encourage the students to understand and pursue their passion and guide them to achieve their goals.Our website acts as a bridge between the teachers and the students.Our website requires active participation of the teachers and other authorities of the student related academically or otherwise. It will act as a platform that  would help to develop masters in particular than producing jacks in bulks. </p>
         </header>
 
         <div class="row about-cols">
@@ -251,7 +251,7 @@
 
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="analysis.php">Student Analysis</a></h4>
+            <h4 class="title"><a href="">Student Analysis</a></h4>
             <p class="description">The student performance analysis will be provided on the basis of the scores entered by the teacher,the progress in the add on courses and regular feedback of the student on the website.</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
@@ -266,12 +266,12 @@
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-            <h4 class="title"><a href="index_delhi.php">Competitions and Events</a></h4>
+            <h4 class="title"><a href="">Competitions and Events</a></h4>
             <p class="description">All the happening competitions and events will be mentioned here , the student, if intrested can enroll himself in any of the competions and events.</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
-            <h4 class="title"><a href="intern_pune.php">Internships</a></h4>
+            <h4 class="title"><a href="">Internships</a></h4>
             <p class="description">See all the internship offers available and apply for them according to the skills and intrests</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">

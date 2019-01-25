@@ -180,6 +180,9 @@ include("navbar_all.php");
                         </div>  
                         
 </div>
+<button>
+    <input type="button" name="button" ><a href="pro.php"></a>
+    </button>
 <script >
     $( document ).ready(function() {
   setInterval(function time(){
