@@ -17,7 +17,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
       <div class="carousel-item">
-  <img class="d-block w-100" src="img/main.jpg" alt="First slide" style="height: 700px;">
+  <img class="d-block w-100" src="img/main.jpg" alt="First slide" style="height: 600px;">
   <div class="carousel-caption d-none d-md-block">
     <!-- <h3 style="color: #ff3399";>The best way to find yourself is to lose yourself in the service of others. </h3> -->
     <!-- <img src="img/soc.jpeg" style="height: 100p"> -->

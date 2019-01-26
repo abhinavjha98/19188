@@ -109,7 +109,7 @@
               <div class="carousel-content">
                 <h2>STUDENT ANALYSIS</h2>
                 <p>"WE CAN EASILY BECOME AS MUCH SLAVES TO PRECAUTION AS WE CAN TO FEAR."</p>
-                <a href="practical orientation.php" class="btn-get-started scrollto">Get Started</a>
+                <a href="practicalorientation.php" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -251,7 +251,7 @@
 
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="analysis.php">Student Analysis</a></h4>
+            <h4 class="title"><a href="practicalorientation.php">Student Analysis</a></h4>
             <p class="description">The student performance analysis will be provided on the basis of the scores entered by the teacher,the progress in the add on courses and regular feedback of the student on the website.</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
